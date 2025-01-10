@@ -30,5 +30,9 @@ Building a quantitative model  to Predict future Business activities
  ### <u><b><i> HYPOTHESIS</u></b></i>
 Null hypothesis;`The type of holiday does not have any significance on the increase of sales`
 Alternative hypothesis; `The type of holiday do have significant on the increase of sales`
-## ETL
-  
+#### <i><u> handling missing values</u></i>
+
+` for this case we have value mising on the dcoil on the data file and we will use back fill method because;`
+
+- because the data is a time sries  and missing values is due to temporary gaps like holidays or weekends 
+- we will assume the secondly recorded values remains valid
