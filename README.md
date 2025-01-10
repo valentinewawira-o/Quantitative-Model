@@ -29,4 +29,6 @@ Building a quantitative model  to Predict future Business activities
  10. Does the payment of wages in the public sector on the 15th and last days of the month influence the store sales.
  ### <u><b><i> HYPOTHESIS</u></b></i>
 Null hypothesis;`The type of holiday does not have any significance on the increase of sales`
-Alternative hypothesis; `The type of holiday do have significant on the increase of sales`  
+Alternative hypothesis; `The type of holiday do have significant on the increase of sales`
+## ETL
+  
