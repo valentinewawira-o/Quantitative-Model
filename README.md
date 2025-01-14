@@ -36,3 +36,15 @@ Alternative hypothesis; `The type of holiday do have significant on the increase
 
 - because the data is a time sries  and missing values is due to temporary gaps like holidays or weekends 
 - we will assume the secondly recorded values remains valid
+### <b><u> Checking for stationarity</u></b>
+    - checking for stationarity in a time series column[date] is very necessary for understanding the statistical propertes of the dataset and determine in the appropriate model technidue to use
+A time series is statinary if the statisitical properties [mean,variance add covariance] remain consant over time
+- ARIMA and SARIMA models assume stationarity 
+### Fit ARIMA Model
+ARIMA REQUIRES 3 PARAMETERS:
+- p(AR):Autoregressive terms
+- d(I):Differencing order
+- q(MA): Moving Average
+Here we will use first order differencing to make the data stationary
+![alt text](image.png)
+
