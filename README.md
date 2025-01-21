@@ -48,3 +48,13 @@ ARIMA REQUIRES 3 PARAMETERS:
 Here we will use first order differencing to make the data stationary
 ![alt text](image.png)
 
+## FEATURING ENGINEERING
+>STEP 1: FEATURE TRANSFORMATION 
+- 1.Scaling
+- 2.Encoding categorical variables
+- 3.Log Transormation
+>STEP 2:FEATURE SCALING
+- 1. remove redundant feature
+- 2. statistical test
+- 3. feature importance 
+>STEP 3: FEATURE CREATION
